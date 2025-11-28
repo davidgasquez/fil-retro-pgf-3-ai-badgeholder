@@ -1,0 +1,4 @@
+*.json
+sessions/
+log/
+history.jsonl

@@ -1,0 +1,8 @@
+[project]
+name = "fil-retro-pgf-3-ai-badgeholder"
+version = "0.1.0"
+description = "An experimental AI badgeholder for Filecoin Retroactive Public Goods Funding Round 3"
+readme = "README.md"
+authors = [{ name = "David Gasquez", email = "davidgasquez@gmail.com" }]
+requires-python = ">=3.14"
+dependencies = ["tqdm>=4.67.1"]
